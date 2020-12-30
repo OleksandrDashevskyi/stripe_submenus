@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.760a9f53.chunk.css",
-    "main.js": "/static/js/main.3dfedbb7.chunk.js",
-    "main.js.map": "/static/js/main.3dfedbb7.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.caa06d4b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.caa06d4b.js.map",
-    "static/js/2.d7123453.chunk.js": "/static/js/2.d7123453.chunk.js",
-    "static/js/2.d7123453.chunk.js.map": "/static/js/2.d7123453.chunk.js.map",
-    "static/js/3.faad6936.chunk.js": "/static/js/3.faad6936.chunk.js",
-    "static/js/3.faad6936.chunk.js.map": "/static/js/3.faad6936.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.760a9f53.chunk.css.map": "/static/css/main.760a9f53.chunk.css.map",
-    "static/js/2.d7123453.chunk.js.LICENSE.txt": "/static/js/2.d7123453.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/hero.acf1e00e.svg",
-    "static/media/logo.6ad422bb.svg": "/static/media/logo.6ad422bb.svg",
-    "static/media/phone.94a7a4fe.svg": "/static/media/phone.94a7a4fe.svg"
+    "main.css": "/stripe_submenus/static/css/main.a9ec8bc0.chunk.css",
+    "main.js": "/stripe_submenus/static/js/main.3dfedbb7.chunk.js",
+    "main.js.map": "/stripe_submenus/static/js/main.3dfedbb7.chunk.js.map",
+    "runtime-main.js": "/stripe_submenus/static/js/runtime-main.b453c9e5.js",
+    "runtime-main.js.map": "/stripe_submenus/static/js/runtime-main.b453c9e5.js.map",
+    "static/js/2.d7123453.chunk.js": "/stripe_submenus/static/js/2.d7123453.chunk.js",
+    "static/js/2.d7123453.chunk.js.map": "/stripe_submenus/static/js/2.d7123453.chunk.js.map",
+    "static/js/3.faad6936.chunk.js": "/stripe_submenus/static/js/3.faad6936.chunk.js",
+    "static/js/3.faad6936.chunk.js.map": "/stripe_submenus/static/js/3.faad6936.chunk.js.map",
+    "index.html": "/stripe_submenus/index.html",
+    "static/css/main.a9ec8bc0.chunk.css.map": "/stripe_submenus/static/css/main.a9ec8bc0.chunk.css.map",
+    "static/js/2.d7123453.chunk.js.LICENSE.txt": "/stripe_submenus/static/js/2.d7123453.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/stripe_submenus/static/media/hero.acf1e00e.svg",
+    "static/media/logo.6ad422bb.svg": "/stripe_submenus/static/media/logo.6ad422bb.svg",
+    "static/media/phone.94a7a4fe.svg": "/stripe_submenus/static/media/phone.94a7a4fe.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.caa06d4b.js",
+    "static/js/runtime-main.b453c9e5.js",
     "static/js/2.d7123453.chunk.js",
-    "static/css/main.760a9f53.chunk.css",
+    "static/css/main.a9ec8bc0.chunk.css",
     "static/js/main.3dfedbb7.chunk.js"
   ]
 }
